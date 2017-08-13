@@ -1,0 +1,24 @@
+{
+  "name": "cqrs-node",
+  "version": "1.0.0",
+  "description": "CQRS/ES example using NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asrulsibaoel/cqrs-node.git"
+  },
+  "keywords": [
+    "CQRS",
+    "node",
+    "ES"
+  ],
+  "author": "asrulsibaoel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asrulsibaoel/cqrs-node/issues"
+  },
+  "homepage": "https://github.com/asrulsibaoel/cqrs-node#readme"
+}
